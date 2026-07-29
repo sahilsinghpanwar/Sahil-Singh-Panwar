@@ -14,9 +14,9 @@ Building production-grade AI applications with modern web technologies.
 
 <p align="center">
 
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge">
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge">
+<img src="https://img.shields.io/github/followers/sahilsinghpanwar?style=for-the-badge">
+<img src="https://img.shields.io/github/stars/sahilsinghpanwar?style=for-the-badge">
+<img src="https://komarev.com/ghpvc/?username=sahilsinghpanwar&style=for-the-badge">
 
 </p>
 
