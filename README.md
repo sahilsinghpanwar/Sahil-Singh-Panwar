@@ -148,11 +148,11 @@ Next.js • React • Firebase • Generative AI
 
 🌐 Live Demo
 
-https://your-live-demo.com
+[https://mock-interview-azure-rho.vercel.app]
 
 📁 GitHub
 
-https://github.com/YOUR_USERNAME/project
+[https://github.com/sahilsinghpanwar/mock-interview]
 
 ---
 
@@ -179,11 +179,11 @@ React • Node.js • Express • MongoDB • Generative AI
 
 🌐 Live Demo
 
-https://your-live-demo.com
+[https://ai-expense-tracker-lovat-nine.vercel.app]
 
 📁 GitHub
 
-https://github.com/YOUR_USERNAME/project
+[https://github.com/sahilsinghpanwar/AI-Expense_tracker]
 
 ---
 
@@ -208,11 +208,11 @@ Next.js • React • Tailwind CSS • Generative AI
 
 🌐 Live Demo
 
-https://your-live-demo.com
+[https://ai-resume-builder-ixyq-git-main-sahilpanwar0211-5486s-projects.vercel.app]
 
 📁 GitHub
 
-https://github.com/YOUR_USERNAME/project
+[https://github.com/sahilsinghpanwar/Ai-resume_builder]
 
 ---
 
@@ -263,11 +263,11 @@ https://github.com/YOUR_USERNAME/project
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/sahil-singh-panwar-3870112a7/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="sahilpanwar0211@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
