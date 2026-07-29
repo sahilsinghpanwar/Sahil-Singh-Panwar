@@ -118,12 +118,11 @@ Next.js • Node.js • MongoDB • Socket.io • Cloudinary • Generative AI
 
 🌐 Live Demo
 
-🔗 [https://your-live-demo.com](https://whiteboard-platform-80gy251pl-sahilpanwar0211-5486s-projects.vercel.app)
+🔗 [https://whiteboard-platform-80gy251pl-sahilpanwar0211-5486s-projects.vercel.app]
 
 📁 GitHub
 
-[https://github.com/YOUR_USERNAME/project
-](https://github.com/sahilsinghpanwar/Whiteboard-platform)
+[https://github.com/sahilsinghpanwar/Whiteboard-platform]
 ---
 
 # 🎤 2. AI Mock Interview Platform
