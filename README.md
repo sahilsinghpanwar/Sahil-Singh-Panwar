@@ -1,29 +1,22 @@
-# 🚀 Professional GitHub Profile README
-
-> **Note:** Replace every placeholder like `YOUR_USERNAME`, `YOUR_EMAIL`, `YOUR_LINKEDIN`, and project URLs with your own details.
-
-```markdown
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:3B82F6,100:8B5CF6&text=Sahil%20Panwar&fontAlignY=38&fontSize=55&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Building%20Production%20Grade%20SaaS&descAlignY=58"/>
+# 👋 Hi, I'm Sahil Panwar
 
-# 👋 Hey, I'm Sahil Panwar
+### 🚀 Full Stack Developer | AI Engineer | SaaS Builder
 
-### Full Stack Developer • AI Engineer • SaaS Builder
+<p align="center">
+Building production-grade AI applications with modern web technologies.
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Building+AI+Powered+Applications;Production+Grade+Full+Stack+Developer;Next.js+%7C+React+%7C+Node.js+Developer;Generative+AI+Enthusiast;Always+Learning+Something+New"/>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Application+Developer;Next.js+%7C+React+%7C+Node.js;Building+Production+Grade+SaaS+Products;Always+Learning+New+Technologies" />
+</p>
 
-<p>
+<p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge">
+<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge">
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge">
 
 </p>
 
@@ -31,41 +24,41 @@
 
 ---
 
-# 💫 About Me
+# 💡 About Me
 
-I'm a passionate **Full Stack Developer** who loves building modern web applications and AI-powered SaaS products.
+I'm a Full Stack Developer passionate about building modern SaaS products powered by Artificial Intelligence.
 
-I enjoy solving real-world problems through scalable backend architectures, beautiful UI, and Generative AI.
+I enjoy solving real-world problems through scalable architectures, clean code, and intuitive user experiences.
 
-## 🚀 Current Focus
+Currently I'm focused on:
 
-- 🤖 AI SaaS Products
-- ⚡ Full Stack Development
-- 🎨 Beautiful UI/UX
-- 🧠 Generative AI
+- 🤖 Generative AI Applications
+- 🎨 Beautiful Frontend Experiences
+- ⚡ Production Ready Full Stack Development
 - ☁️ Cloud Deployment
-- 📈 Scalable Backend Systems
+- 🧠 AI Automation
+- 🚀 Building Startup-Level SaaS Products
 
 ---
 
-# 💼 Tech Stack
+# 🛠 Tech Stack
 
-## 🎨 Frontend
+## Frontend
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,js,ts,tailwind"/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,js,ts,tailwind,firebase"/>
 
 </p>
 
 ### UI Libraries
 
-- 🎨 shadcn/ui
-- 🎬 Framer Motion
+- shadcn/ui
+- Framer Motion
 
 ---
 
-## ⚙ Backend
+## Backend
 
 <p>
 
@@ -75,40 +68,21 @@ I enjoy solving real-world problems through scalable backend architectures, beau
 
 ---
 
-## 🤖 AI
-
-- Generative AI
-- AI Workflow Integration
-- Prompt Engineering
-- AI Application Development
-
----
-
-## ☁️ Cloud & Database
+## AI & Tools
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=firebase,vercel,render"/>
+<img src="https://skillicons.dev/icons?i=python,figma,git,github,vercel,render"/>
 
 </p>
 
-### Also Experienced With
+### Additional Skills
 
-- Cloudinary
 - REST APIs
+- Cloudinary
 - EJS
-- Git
-- GitHub
-
----
-
-## 🎨 Design
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=figma"/>
-
-</p>
+- Generative AI
+- Prompt Engineering
 
 ---
 
@@ -116,200 +90,140 @@ I enjoy solving real-world problems through scalable backend architectures, beau
 
 ---
 
-# 🎨 AI Collaborative Whiteboard Platform
+# 🎨 1. AI Collaborative Whiteboard Platform
 
-> Production-grade collaborative whiteboard inspired by Miro + FigJam with an intelligent AI Board Assistant.
+Production-grade collaborative whiteboard inspired by Miro and FigJam with an integrated AI Board Assistant.
 
-### 🌟 Features
+### ✨ Features
 
-✅ Real-time Collaboration
+- Real-time Collaboration
+- Live Cursor Tracking
+- AI Board Assistant
+- Drawing Tools
+- Sticky Notes
+- Shapes
+- Text
+- Infinite Canvas
+- Authentication
+- Team Workspace
+- Comments
+- Board Sharing
+- Cloud Storage
 
-✅ Live Cursor Tracking
+### Tech Stack
 
-✅ AI Board Assistant
+Next.js • Node.js • MongoDB • Socket.io • Cloudinary • Generative AI
 
-✅ Sticky Notes
+### Links
 
-✅ Shapes
+🌐 Live Demo
 
-✅ Drawing Tools
+🔗 https://your-live-demo.com
 
-✅ Text Editing
-
-✅ Infinite Canvas
-
-✅ Team Collaboration
-
-✅ Authentication
-
-✅ Comments
-
-✅ Version History
-
-✅ Cloud Storage
-
----
-
-### 🛠 Tech Stack
-
-Next.js
-
-Node.js
-
-MongoDB
-
-Socket.io
-
-Cloudinary
-
-Generative AI
-
-Tailwind CSS
-
----
-
-### 📸 Preview
-
-<img src="YOUR_SCREENSHOT"/>
-
----
-
-### 🌐 Live Demo
-
-https://your-demo.com
-
-### 💻 Source Code
+📁 GitHub
 
 https://github.com/YOUR_USERNAME/project
 
 ---
 
-# 🎤 AI Mock Interview Platform
+# 🎤 2. AI Mock Interview Platform
 
-> AI-powered interview simulator that conducts mock interviews and provides detailed feedback.
+An AI-powered interview preparation platform that simulates real technical interviews and provides instant feedback.
 
-### Features
+### ✨ Features
 
 - AI Interviewer
 - Technical Questions
-- HR Questions
-- Resume Analysis
-- Performance Score
-- AI Feedback
-- Authentication
+- Voice Support
+- Performance Analysis
+- Score Reports
+- Feedback
 - Interview History
+- Authentication
 
 ### Tech Stack
 
-Next.js
+Next.js • React • Firebase • Generative AI
 
-Firebase
+### Links
 
-React
+🌐 Live Demo
 
-Tailwind CSS
+https://your-live-demo.com
 
-Generative AI
-
-### Preview
-
-<img src="YOUR_SCREENSHOT"/>
-
-### Live Demo
-
-https://your-demo.com
-
-### GitHub
+📁 GitHub
 
 https://github.com/YOUR_USERNAME/project
 
 ---
 
-# 💰 AI Expense Tracker & Finance Advisor
+# 💰 3. AI Expense Tracker & Finance Advisor
 
-> Smart expense management application with an AI Finance Advisor capable of analysing spending behaviour and giving financial recommendations.
+Smart expense management platform with an AI financial advisor that analyzes spending habits and provides personalized financial recommendations.
 
-### Features
+### ✨ Features
 
-- Expense Tracking
 - Income Tracking
-- Monthly Reports
-- Dashboard
+- Expense Tracking
 - Charts
-- Categories
-- AI Financial Advisor
+- AI Finance Advisor
+- Monthly Reports
 - Smart Analytics
+- Categories
+- Dashboard
 
 ### Tech Stack
 
-React
+React • Node.js • Express • MongoDB • Generative AI
 
-Node.js
+### Links
 
-MongoDB
+🌐 Live Demo
 
-Express
+https://your-live-demo.com
 
-Generative AI
-
-### Preview
-
-<img src="YOUR_SCREENSHOT"/>
-
-### Live Demo
-
-https://your-demo.com
-
-### GitHub
+📁 GitHub
 
 https://github.com/YOUR_USERNAME/project
 
 ---
 
-# 📄 AI Resume Builder
+# 📄 4. AI Powered Resume Builder
 
-> AI-powered ATS-friendly resume builder with multiple templates and PDF export.
+An AI-powered resume builder that creates professional ATS-friendly resumes using Generative AI.
 
-### Features
+### ✨ Features
 
 - AI Resume Generation
-- ATS Optimization
+- ATS Friendly Templates
 - PDF Export
-- Resume Templates
+- Resume Editor
+- Multiple Templates
 - Live Preview
-- Custom Sections
 
 ### Tech Stack
 
-Next.js
+Next.js • React • Tailwind CSS • Generative AI
 
-React
+### Links
 
-Tailwind CSS
+🌐 Live Demo
 
-Generative AI
+https://your-live-demo.com
 
-### Preview
-
-<img src="YOUR_SCREENSHOT"/>
-
-### Live Demo
-
-https://your-demo.com
-
-### GitHub
+📁 GitHub
 
 https://github.com/YOUR_USERNAME/project
 
 ---
 
-# 📊 GitHub Analytics
+# 📈 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -325,7 +239,7 @@ https://github.com/YOUR_USERNAME/project
 
 ---
 
-# 📈 Contribution Graph
+# 📊 Contribution Graph
 
 <p align="center">
 
@@ -335,34 +249,14 @@ https://github.com/YOUR_USERNAME/project
 
 ---
 
-# 🐍 Contribution Snake
+# 🎯 What I'm Currently Learning
 
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&row=2&column=4"/>
-
-</p>
-
----
-
-# 🎯 Currently Learning
-
+- Advanced Next.js
 - AI Agents
 - RAG Systems
+- LangChain
 - System Design
 - SaaS Architecture
-- Advanced Next.js
-- WebSocket Scaling
 
 ---
 
@@ -371,15 +265,11 @@ https://github.com/YOUR_USERNAME/project
 <p align="center">
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-
-<img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail"/>
-
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
 </p>
@@ -388,11 +278,8 @@ https://github.com/YOUR_USERNAME/project
 
 <div align="center">
 
-## 💙 Thanks for visiting my profile!
+### ⭐ Thanks for visiting my profile!
 
-### ⭐ If you like my work, consider giving my repositories a star!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:3B82F6,100:8B5CF6"/>
+Building AI products that solve real-world problems.
 
 </div>
-```
