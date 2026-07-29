@@ -1,14 +1,13 @@
-<h1 align="center">Hi 👋, I'm [Tera Naam]</h1>
+<h1 align="center">Hi 👋, I'm [Sahil Singh Panwar]</h1>
 <h3 align="center">Full Stack Developer | React | Node.js | MongoDB</h3>
 
 ---
 
 ### 🙋 About Me
-- 🔭 Currently working on **Resume Builder & Expense Tracker**
-- 🌱 Learning **AI Tools Integration & System Design**
-- 💼 Looking for **Full Stack Developer Internship**
-- 📍 Based in **India**
-- ⚡ Fun fact: I turn chai ☕ into code!
+- 🌱 Build **AI Tools Integration & System Design**
+- 💼 **Full Stack Developer Internship**
+
+
 
 ---
 
