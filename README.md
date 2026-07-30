@@ -118,7 +118,7 @@ Next.js • Node.js • MongoDB • Socket.io • Cloudinary • Generative AI
 
 🌐 Live Demo
 
-🔗 [https://whiteboard-platform-80gy251pl-sahilpanwar0211-5486s-projects.vercel.app]
+🔗 [https://whiteboard-platform.vercel.app/]
 
 📁 GitHub
 
