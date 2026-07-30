@@ -208,7 +208,7 @@ Next.js • React • Tailwind CSS • Generative AI
 
 🌐 Live Demo
 
-[https://ai-resume-builder-ixyq-git-main-sahilpanwar0211-5486s-projects.vercel.app]
+[https://ai-resume-builder-pi-orpin.vercel.app/]
 
 📁 GitHub
 
