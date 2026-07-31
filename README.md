@@ -1,22 +1,23 @@
+# 🕷️ Sahil Panwar
+
 <div align="center">
 
-# 👋 Hi, I'm Sahil Panwar
+### **Friendly Neighborhood Full Stack Developer**
 
-### 🚀 Full Stack Developer | AI Engineer | SaaS Builder
+Building scalable web applications, AI-powered products, and modern user experiences.
 
-<p align="center">
-Building production-grade AI applications with modern web technologies.
-</p>
+<p>
+  <a href="https://github.com/sahilsinghpanwar">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Application+Developer;Next.js+%7C+React+%7C+Node.js;Building+Production+Grade+SaaS+Products;Always+Learning+New+Technologies" />
-</p>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-<p align="center">
-
-<img src="https://img.shields.io/github/followers/sahilsinghpanwar?style=for-the-badge">
-<img src="https://img.shields.io/github/stars/sahilsinghpanwar?style=for-the-badge">
-<img src="https://komarev.com/ghpvc/?username=sahilsinghpanwar&style=for-the-badge">
+  <a href="mailto:sahilpanwar0211@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
 </p>
 
@@ -24,261 +25,187 @@ Building production-grade AI applications with modern web technologies.
 
 ---
 
-# 💡 About Me
+## About Me
 
-I'm a Full Stack Developer passionate about building modern SaaS products powered by Artificial Intelligence.
+I'm a **Full Stack Developer** passionate about building scalable applications with clean architecture and modern technologies.
 
-I enjoy solving real-world problems through scalable architectures, clean code, and intuitive user experiences.
+I enjoy solving real-world problems through intuitive user experiences, AI integrations, and production-ready software.
 
-Currently I'm focused on:
+Currently exploring:
 
-- 🤖 Generative AI Applications
-- 🎨 Beautiful Frontend Experiences
-- ⚡ Production Ready Full Stack Development
-- ☁️ Cloud Deployment
-- 🧠 AI Automation
-- 🚀 Building Startup-Level SaaS Products
+* AI-powered applications
+* Real-time collaboration systems
+* Full Stack Architecture
+* Backend Engineering
+* Automation
 
----
-
-# 🛠 Tech Stack
-
-## Frontend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,js,ts,tailwind,firebase"/>
-
-</p>
-
-### UI Libraries
-
-- shadcn/ui
-- Framer Motion
+> **"With great code comes great responsibility."** 🕸️
 
 ---
 
-## Backend
+# Tech Stack
 
-<p>
+### Frontend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres"/>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square\&logo=nextdotjs)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=flat-square\&logo=tailwindcss)
 
-</p>
+### Backend
 
----
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=flat-square\&logo=express)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-square\&logo=socketdotio)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat-square\&logo=jsonwebtokens)
 
-## AI & Tools
+### Database
 
-<p>
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square\&logo=supabase)
 
-<img src="https://skillicons.dev/icons?i=python,figma,git,github,vercel,render"/>
+### AI & Cloud
 
-</p>
-
-### Additional Skills
-
-- REST APIs
-- Cloudinary
-- EJS
-- Generative AI
-- Prompt Engineering
-
----
-
-# 🚀 Featured Projects
-
----
-
-# 🎨 1. AI Collaborative Whiteboard Platform
-
-Production-grade collaborative whiteboard inspired by Miro and FigJam with an integrated AI Board Assistant.
-
-### ✨ Features
-
-- Real-time Collaboration
-- Live Cursor Tracking
-- AI Board Assistant
-- Drawing Tools
-- Sticky Notes
-- Shapes
-- Text
-- Infinite Canvas
-- Authentication
-- Team Workspace
-- Comments
-- Board Sharing
-- Cloud Storage
-
-### Tech Stack
-
-Next.js • Node.js • MongoDB • Socket.io • Cloudinary • Generative AI
-
-### Links
-
-🌐 Live Demo
-
-🔗 [https://whiteboard-platform.vercel.app/]
-
-📁 GitHub
-
-[https://github.com/sahilsinghpanwar/Whiteboard-platform]
----
-
-# 🎤 2. AI Mock Interview Platform
-
-An AI-powered interview preparation platform that simulates real technical interviews and provides instant feedback.
-
-### ✨ Features
-
-- AI Interviewer
-- Technical Questions
-- Voice Support
-- Performance Analysis
-- Score Reports
-- Feedback
-- Interview History
-- Authentication
-
-### Tech Stack
-
-Next.js • React • Firebase • Generative AI
-
-### Links
-
-🌐 Live Demo
-
-[https://mock-interview-azure-rho.vercel.app]
-
-📁 GitHub
-
-[https://github.com/sahilsinghpanwar/mock-interview]
+![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square\&logo=cloudinary)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=flat-square\&logo=vercel)
 
 ---
 
-# 💰 3. AI Expense Tracker & Finance Advisor
+# Featured Projects
 
-Smart expense management platform with an AI financial advisor that analyzes spending habits and provides personalized financial recommendations.
+## 🕸️ Whiteboard Platform
 
-### ✨ Features
+Real-time collaborative whiteboard with AI integration, cloud storage and modern collaborative workspace.
 
-- Income Tracking
-- Expense Tracking
-- Charts
-- AI Finance Advisor
-- Monthly Reports
-- Smart Analytics
-- Categories
-- Dashboard
+**Tech Stack**
 
-### Tech Stack
+* Next.js
+* TypeScript
+* Tailwind CSS
+* Supabase
+* Cloudinary
+* Google Gemini
+* Vercel
 
-React • Node.js • Express • MongoDB • Generative AI
+🔗 **Live Demo**
 
-### Links
+https://whiteboard-platform.vercel.app/
 
-🌐 Live Demo
+💻 **Repository**
 
-[https://ai-expense-tracker-lovat-nine.vercel.app]
-
-📁 GitHub
-
-[https://github.com/sahilsinghpanwar/AI-Expense_tracker]
+https://github.com/sahilsinghpanwar/Whiteboard-platform
 
 ---
 
-# 📄 4. AI Powered Resume Builder
+## 🎤 AI Mock Interview
 
-An AI-powered resume builder that creates professional ATS-friendly resumes using Generative AI.
+AI-powered interview preparation platform that generates interview questions and helps users practice technical interviews.
 
-### ✨ Features
+**Tech Stack**
 
-- AI Resume Generation
-- ATS Friendly Templates
-- PDF Export
-- Resume Editor
-- Multiple Templates
-- Live Preview
+* Next.js
+* React
+* Tailwind CSS
+* Clerk Authentication
+* Drizzle ORM
+* PostgreSQL
+* Google Gemini
+* Vercel
 
-### Tech Stack
+🔗 **Live Demo**
 
-Next.js • React • Tailwind CSS • Generative AI
+https://mock-interview-azure-rho.vercel.app
 
-### Links
+💻 **Repository**
 
-🌐 Live Demo
-
-[https://ai-resume-builder-pi-orpin.vercel.app/]
-
-📁 GitHub
-
-[https://github.com/sahilsinghpanwar/Ai-resume_builder]
+https://github.com/sahilsinghpanwar/mock-interview
 
 ---
 
-# 📈 GitHub Stats
+## 📄 AI Resume Builder
 
-<p align="center">
+Generate ATS-friendly resumes with AI assistance, customizable templates and real-time editing.
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sahilsinghpanwar&show_icons=true&theme=tokyonight"/>
+**Tech Stack**
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilsinghpanwar&layout=compact&theme=tokyonight"/>
+* React
+* Node.js
+* Express.js
+* MongoDB
+* Google Gemini
+* Tailwind CSS
 
-</p>
+🔗 **Live Demo**
 
----
+https://ai-resume-builder-pi-orpin.vercel.app/
 
-# 🔥 GitHub Streak
+💻 **Repository**
 
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilsinghpanwar&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sahilsinghpanwar&theme=tokyo-night"/>
-
-</p>
+https://github.com/sahilsinghpanwar/Ai-resume_builder
 
 ---
 
-# 🎯 What I'm Currently Learning
+## 💰 AI Expense Tracker
 
-- Advanced Next.js
-- AI Agents
-- RAG Systems
-- LangChain
-- System Design
-- SaaS Architecture
+Expense management platform with AI-powered financial insights, authentication and interactive analytics.
+
+**Tech Stack**
+
+* React
+* Node.js
+* Express.js
+* MongoDB
+* JWT
+* Google Gemini
+* Tailwind CSS
+
+🔗 **Live Demo**
+
+https://ai-expense-tracker-lovat-nine.vercel.app
+
+💻 **Repository**
+
+https://github.com/sahilsinghpanwar/AI-Expense_tracker
 
 ---
 
-# 🤝 Let's Connect
+# GitHub Analytics
 
-<p align="center">
+<div align="center">
 
-<a href="https://www.linkedin.com/in/sahil-singh-panwar-3870112a7/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sahilsinghpanwar&show_icons=true&theme=tokyonight"/>
 
-<a href="mailto:sahilpanwar0211@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilsinghpanwar&theme=tokyonight"/>
 
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilsinghpanwar&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+# Let's Connect
+
+📧 **Email**
+
+**[sahilpanwar0211@gmail.com](mailto:sahilpanwar0211@gmail.com)**
+
+💼 **LinkedIn**
+
+Add your LinkedIn profile here.
+
+🌐 **Portfolio**
+
+Add your portfolio link here.
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### 🕷️ Thanks for visiting my profile.
 
-Building AI products that solve real-world problems.
+*"Code. Build. Learn. Repeat."*
 
 </div>
