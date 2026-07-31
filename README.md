@@ -1,37 +1,45 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0D0D0D,35:E23636,70:003893,100:0D0D0D&height=230&section=header&text=Sahil%20Panwar&fontSize=60&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Web-Slinging%20Through%20Code&descAlignY=55&descSize=20&descColor=E8E8E8&fontFamily=Bangers" />
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px">
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:1a1a2e,100:0D0D0D&height=8" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bangers&weight=500&size=26&pause=1000&color=E23636&center=true&vCenter=true&width=650&lines=With+Great+Code+Comes+Great+Responsibility;Building+Full+Stack+Web+Applications;Integrating+AI+into+Real-World+Products;MERN+Stack+%7C+AI+%7C+Real-Time+Systems;Turning+Ideas+into+Shipped+Products)](https://git.io/typing-svg)
+```
+
+███████╗ █████╗ ██╗  ██╗██╗██╗
+██╔════╝██╔══██╗██║  ██║██║██║
+███████╗███████║███████║██║██║
+╚════██║██╔══██║██╔══██║██║██║
+███████║██║  ██║██║  ██║██║███████╗
+╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝
+
+```
+
+**🕷️ Friendly Neighborhood Full Stack Developer**
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=E23636&center=true&vCenter=true&width=640&lines=Full+Stack+Developer+%7C+MERN+%2B+AI;Building+Production-Ready+Web+Applications;Integrating+LLMs+into+Real-World+Products;Clean+Code.+Scalable+Systems.+Shipped+Products.)](https://git.io/typing-svg)
+
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-E23636?style=for-the-badge&labelColor=0D0D0D" />
+<img src="https://img.shields.io/badge/FOCUS-FULL%20STACK%20%2B%20AI-003893?style=for-the-badge&labelColor=0D0D0D" />
 
 </div>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px">
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:1a1a2e,100:0D0D0D&height=8" />
 
 ---
 
-<img align="right" width="180" src="https://media.giphy.com/media/1ock8iEidxeCz4hlXA/giphy.gif" />
+### About Me
 
-### 🕷️ About Me
+I'm a Full Stack Developer focused on building real-world, AI-powered web applications. I work primarily with the MERN stack and enjoy solving complex problems through clean, scalable architecture — reliable under the hood, sharp on the surface.
 
-I'm a Full Stack Developer with a focus on building real-world, AI-powered web applications — swinging between frontend and backend like it's second nature. I work primarily with the MERN stack and enjoy solving complex problems through clean, scalable architecture.
-
-- 🌐 Building production-ready apps with **React, Node.js, Express, and MongoDB**
-- 🤖 Integrating **AI/LLMs** (Gemini AI) into full-stack products
-- ⚡ Experienced with **real-time systems** using Socket.io and collaborative tools
-- 🕸️ Currently deepening skills in **system design** and **AI-driven product development**
-
-<br clear="right"/>
+| | |
+|---|---|
+| 🌐 **Product Engineering** | Building production-ready apps with **React, Node.js, Express, and MongoDB** |
+| 🤖 **AI Integration** | Embedding **LLMs (Gemini AI)** into full-stack products for real user value |
+| ⚡ **Real-Time Systems** | Building collaborative, low-latency features with **Socket.io** |
+| 🧠 **Currently Leveling Up** | **System design** and **AI-driven product development** |
 
 ---
 
-## 🕸️ Tech Web
+## Tech Stack
 
 **Frontend**
 
@@ -205,4 +213,4 @@ I'm a Full Stack Developer with a focus on building real-world, AI-powered web a
   <sub>🕷️ Full Stack Developer · Open to opportunities · Building things that matter, one commit at a time</sub>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:003893,35:E23636,70:0D0D0D,100:0D0D0D&height=140&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:1a1a2e,100:0D0D0D&height=8" />
