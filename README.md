@@ -15,7 +15,7 @@
 I'm a Full Stack Developer with a focus on building real-world, AI-powered web applications. I work primarily with the MERN stack and enjoy solving complex problems through clean, scalable architecture.
 
 - Building production-ready apps with **React, Node.js, Express, and MongoDB**
-- Integrating **AI/LLMs** (Gemini AI) into full-stack products
+- Integrating **AI/LLMs** into full-stack products
 - Experienced with **real-time systems** using Socket.io and collaborative tools
 - Currently deepening skills in **system design** and **AI-driven product development**
 
