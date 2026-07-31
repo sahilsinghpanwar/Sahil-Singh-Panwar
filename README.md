@@ -9,7 +9,7 @@
 
 ```
 
-### Hi, I'm Pawan 👋
+### Hi, I'm Sahil 👋
 **Full-Stack Developer | AI Integration Enthusiast**
 
 ---
@@ -34,22 +34,16 @@
 ### 🔥 What I'm Currently Working On
 
 * Building a real-time collaborative **Whiteboard Platform** with multi-user canvas sync
-* Shipping an **AI Mock Interview** platform that gives real-time feedback using Gemini AI
-* Building an **AI Resume Builder** with live AI suggestions and one-click PDF export
-* Building an **AI Expense Tracker** with receipt scanning and natural-language transaction parsing
 * Leveling up in **system design** and AI-driven product development
 
 ---
 
 ### 📫 Let's Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](YOUR_PORTFOLIO_URL)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB_URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolio-two-swart-31.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-singh-panwar-3870112a7)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sahilsinghpanwar)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahilpanwar0211@gmail.com)
 
 ---
 
-> "Code is like humor. When you have to explain it, it's bad." – Cory House
-
-⭐️ From Pawan Sah
