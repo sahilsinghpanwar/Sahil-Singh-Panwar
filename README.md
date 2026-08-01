@@ -13,17 +13,7 @@
                   ██║  ██║██╔══╝  ╚██╗ ██╔╝██╔══╝  ██║     ██║   ██║██╔═══╝ ██╔══╝  ██╔══██╗
                   ██████╔╝███████╗ ╚████╔╝ ███████╗███████╗╚██████╔╝██║     ███████╗██║  ██║
                   ╚═════╝ ╚══════╝  ╚═══╝  ╚══════╝╚══════╝ ╚═════╝ ╚═╝     ╚══════╝╚═╝  ╚═╝╝
----
 
-
-## 🚀 What I'm Building
-
-- 🛠️ Building a real-time collaborative **Whiteboard SaaS Features** — 
-
-- 📐 Leveling up in **system design** and AI-driven product development
-
-
----
 
 
 ## 🛠️ Tech Stack
@@ -74,6 +64,8 @@
 ### Testing & Other
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![DSA](https://img.shields.io/badge/DSA-00ADD8?style=for-the-badge&logo=leetcode&logoColor=white)
+
+
 
 
 ### 📫 Let's Connect
