@@ -18,7 +18,7 @@
 
 ## 🚀 What I'm Building
 
-- 🛠️ Building a real-time collaborative **Whiteboard SaaS Featuers (User requirement)** — 
+- 🛠️ Building a real-time collaborative **Whiteboard SaaS Features** — 
 
 - 📐 Leveling up in **system design** and AI-driven product development
 
